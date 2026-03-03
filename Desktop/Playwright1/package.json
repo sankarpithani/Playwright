@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "sample": "npx playwright test example.spec.js",
-    "sauce_lab":"npx playwright test sauce.spec.js"
+    "sauce_lab": "npx playwright test sauce.spec.js"
   },
   "keywords": [],
   "author": "",
